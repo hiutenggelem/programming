@@ -3,4 +3,4 @@ WPU resolusi
 - membuat platform untuk pengelolaan video
 - membuat forum diskusi
 - membuat webflow tutorial
-- kolaborasi dengan tiktok
+- kolaborasi dengan orang
